@@ -1,3 +1,5 @@
+// link video https://youtu.be/arEH42026uE
+
 PImage obra;
 int color1 = 230;
 int color2 = 40;
